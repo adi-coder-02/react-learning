@@ -12,9 +12,7 @@ function App() {
     <>
       <Counter />
       <br />
-      <br />
       <Card username = "aditya singhal" btnText = "Read More" /> 
-      <Card username = "yoyoyo"/> 
     </>
   )
 }
